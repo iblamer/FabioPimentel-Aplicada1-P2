@@ -15,7 +15,7 @@ namespace FabioPimentel_Apliacada1_P2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Parcial2());
         }
     }
 }
